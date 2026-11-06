@@ -1,0 +1,6 @@
+{
+  "name": "IndicWrite AI",
+  "description": "Multilingual Hinglish Smart Writing Assistant for Roman-to-Indic transliteration, text improvement, translation, and FAISS RAG knowledge base.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
